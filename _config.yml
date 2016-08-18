@@ -12,3 +12,7 @@ color:
     - '#ED0000'
     - '#E89400'
 name: Plated
+navigation:
+  - name: About Plated
+    id: a941a7f3-9ecc-4406-90bc-2278a0e5661f
+    type: content
