@@ -1,16 +1,16 @@
-layout_spectrum: 0.7331531515810639
-typography_spectrum: 0.5109134044032544
+layout_spectrum: 0.4070200582500547
+typography_spectrum: 0.562742559472099
 color:
-  brandStrength: 0.9096206773538142
-  lightness: 0.35356921004131436
-  saturation: 0.9623163873329759
-  rhythmicContrast: 0.5608222733717412
+  brandStrength: 0.1137152910232544
+  lightness: 0.3190042641945183
+  saturation: 0.6056829730514437
+  rhythmicContrast: 0.5409521472174674
   brandColors:
-    - '#050505'
-    - '#C6CACB'
-    - '#8A8A8C'
-    - '#ED0000'
-    - '#E89400'
+    - '#468966'
+    - '#FFF0A5'
+    - '#FFB03B'
+    - '#B64926'
+    - '#8E2800'
 name: Plated
 navigation:
   - name: About Plated
