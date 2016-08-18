@@ -1,0 +1,14 @@
+layout_spectrum: 0.7331531515810639
+typography_spectrum: 0.5109134044032544
+color:
+  brandStrength: 0.9096206773538142
+  lightness: 0.35356921004131436
+  saturation: 0.9623163873329759
+  rhythmicContrast: 0.5608222733717412
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+name: Plated
